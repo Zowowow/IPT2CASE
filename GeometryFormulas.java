@@ -11,7 +11,7 @@ public class GeometryFormulas{
          System.out.println(fmla.areaOfTriangle(5.0,7.0));
          System.out.println(fmla.areaOfSquare(6.5));
          System.out.println(fmla.areaOfRectangle(4.5,3.5));
-         //end
+         //endd
 
     }
     
